@@ -166,7 +166,8 @@ database/
 
 | Page      | Preview                       |
 | --------- | ----------------------------- |
-| Login     | `![Login](docs/login.png)`    |
+| Login     | `<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/deb91052-c5ea-4b6c-94d8-1cb4d0154c02" />
+`    |
 | Dashboard | `![Dashboard](docs/dash.png)` |
 | Users     | `![Users](docs/users.png)`    |
 | Reports   | `![Reports](docs/reports.png)`|
