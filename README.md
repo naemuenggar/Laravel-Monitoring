@@ -160,10 +160,6 @@ database/
 - Modern sidebar with active menu indicator
 - Responsive for desktop and mobile
 
-## Screenshots
-
-> Add your screenshots here.
-
 ## Preview
 
 | Page | Preview |
