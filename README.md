@@ -166,8 +166,11 @@ database/
 
 | Page      | Preview                       |
 | --------- | ----------------------------- |
-| Login     | `<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/deb91052-c5ea-4b6c-94d8-1cb4d0154c02" />
-`    |
-| Dashboard | `![Dashboard](docs/dash.png)` |
-| Users     | `![Users](docs/users.png)`    |
-| Reports   | `![Reports](docs/reports.png)`|
+| Login     | <img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/deb91052-c5ea-4b6c-94d8-1cb4d0154c02" />
+    |
+| Dashboard | <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/cd19d4af-ac5b-4dba-a7a8-77ef9dee1e5b" />
+ |
+| Users     | <img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/5404c1ab-681f-4cc4-82a5-2fc10663ec54" />
+   |
+| Reports   | <img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/564f6a03-9572-43c7-8ee5-b7917a7def29" />
+|
